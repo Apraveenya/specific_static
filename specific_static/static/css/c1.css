@@ -1,0 +1,15 @@
+h1{
+    color:black;
+    background:cornflowerblue;
+}
+img{
+    border-radius:20px;
+    width:400px;
+    height:400px;
+    display:block;
+    margin:40px;
+    
+}
+img:hover{
+width:500px;
+}
